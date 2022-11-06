@@ -28,6 +28,7 @@ extensions = [
     'sphinx.ext.autodoc',
     'nbsphinx',
     'sphinx.ext.mathjax',
+    'sphinx.ext.githubpages'
     # 'recommonmark'
 ]
 
