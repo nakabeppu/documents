@@ -7,7 +7,7 @@
 .DS_Store
 .AppleDouble
 .LSOverride
-docs/doctrees
+docs/.doctrees
 
 # Icon must end with two \r
 Icon
